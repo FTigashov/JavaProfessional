@@ -10,3 +10,7 @@
 /test/
 pom.xml
 /target/
+/src/main/java/reflectionsAndTests/
+/src/test/java/reflectionsAndTests/
+
+MyAnnotation.java
